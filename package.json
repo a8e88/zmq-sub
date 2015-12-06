@@ -11,5 +11,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chula Roongvara",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/alive8e88/zmq-sub.git"
+  }
 }
