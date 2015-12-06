@@ -1,0 +1,15 @@
+{
+  "name": "zmq-sub",
+  "version": "1.0.0",
+  "description": "simple example zmq pub/sub client.",
+  "main": "app.js",
+  "dependencies": {
+    "zmq": "^2.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chula Roongvara",
+  "license": "MIT"
+}
